@@ -5,6 +5,7 @@
     box-sizing: border-box;
     color: white;
     text-decoration: none;
+
 }
 
 body {
@@ -36,6 +37,7 @@ body {
     display: flex;
 
 }
+
 
 .neon:hover {
     transform: scale(1.2);

@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    color: white;
+    text-decoration: none;
+
+}
+
+.backneon1{
+    background-image: url(neon/%D0%BD%D0%B5%D0%BE%D0%BD%D0%BA%D0%B01.jpg);
+    width: 200vh;
+    height: 103vh;
+}
+.backneon2{
+    background-image: url(neon/%D0%BD%D0%B5%D0%BE%D0%BD%D0%BA%D0%B02.jpg);
+    width: 200vh;
+    height: 103vh;
+}
+.backneon3{
+    background-image: url(neon/%D0%BD%D0%B5%D0%BE%D0%BD%D0%BA%D0%B03.jfif);
+    width: 200vh;
+    height: 103vh;
+}
